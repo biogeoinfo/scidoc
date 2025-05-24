@@ -1,7 +1,9 @@
 #### 2025
 #### 2024
+- A first record of two dragonfly species (Odonata) from Kamchatka Peninsula, Russia
+- Origin of the Red-veined Darter dragonflies migrating into the European part of Russia revealed by stable isotopes of hydrogen
 #### 2023
-
+- Materials on the fauna of dragonflies (Odonata) of the Mangistauskaya Oblast (southwestern Kazakhstan
 #### 2022
 - Dragonflies (Odonata) of the Syrdarya Karatau and the Arys River valley (southern Kazakhstan) with notes on seasonal latitudinal and altitudinal migrations 
 - Materials on the fauna of dragonflies (Odonata) of the Taimyrskii Dolgano-Nenetskii District (Krasnoyarskii Krai, Russia)
