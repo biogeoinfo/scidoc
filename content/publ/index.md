@@ -5,6 +5,7 @@ title: Publications
 #### 2024
 - A first record of two dragonfly species (Odonata) from Kamchatka Peninsula, Russia
 - Origin of the Red-veined Darter dragonflies migrating into the European part of Russia revealed by stable isotopes of hydrogen
+- Migrant dragonfly *Pantala flavescens* (Fabricius, 1798) (Odonata, Libellulidae) in western Russia and different migration cycles in the western Palearctic
 #### 2023
 - Materials on the fauna of dragonflies (Odonata) of the Mangistauskaya Oblast (southwestern Kazakhstan
 #### 2022
