@@ -143,8 +143,8 @@ title: Publications
 - Стрекозы (Insecta, Odonata) Памира
 - *Trithemis* Brauer - новый для фауны СССР род стрекоз (Odonata, Libellulidae)
 #### 1984
-- Изменчивость поколений у стрекоз (Insecta, Odonata)
+- Изменчивость поколений у стрекоз (Insecta, Odonata) [[1984.pdf| pdf]] 
 #### 1983
-- Новый вид стрекозы рода *Sympetrum* Newman (Odonata, Libellulidae) из Таджикистана
+- Новый вид стрекозы рода *Sympetrum* Newman (Odonata, Libellulidae) из Таджикистана [[1983.Sympetrum_haritonovi.pdf| pdf]] 
 #### 1981
 - *Diplacodes* Kirby - новый для фауны СССР род стрекоз (Odonata, Libellulidae)[[1981.DiplacodesKirby.pdf| pdf]] 
