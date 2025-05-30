@@ -147,4 +147,4 @@ title: Publications
 #### 1983
 - Новый вид стрекозы рода *Sympetrum* Newman (Odonata, Libellulidae) из Таджикистана
 #### 1981
-- *Diplacodes* Kirby - новый для фауны СССР род стрекоз (Odonata, Libellulidae)
+- *Diplacodes* Kirby - новый для фауны СССР род стрекоз (Odonata, Libellulidae)[[1981.DiplacodesKirby.pdf| pdf]] 
