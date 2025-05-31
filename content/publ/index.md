@@ -138,10 +138,10 @@ title: Publications
 - Численность некоторых видов стрекоз в долинах Юго-Западного Таджикистана
 - Фауна и экология стрекоз (Insecta, Odonata) заповедника “Тигровая Балка”
 #### 1985
-- Суточный ритм активности *Anax parthenope* Selys (Odonata, Libellulidae) в условиях аридной зоны
-- Искусственные оросительные системы как стации личинок стрекоз (Insecta, Odonata) в долинах Таджикистана
-- Стрекозы (Insecta, Odonata) Памира
-- *Trithemis* Brauer - новый для фауны СССР род стрекоз (Odonata, Libellulidae)
+- Суточный ритм активности *Anax parthenope* Selys (Odonata, Libellulidae) в условиях аридной зоны [[1985.A.parthenope.pdf| pdf]] 
+- Искусственные оросительные системы как стации личинок стрекоз (Insecta, Odonata) в долинах Таджикистана [[1985.a.pdf| pdf]] 
+- Стрекозы (Insecta, Odonata) Памира [[1985.b.pdf| pdf]] 
+- Trithemis Brauer - новый для фауны СССР род стрекоз (Odonata, Libellulidae) [[1985.Trithemis_Brauer.pdf| pdf]]
 #### 1984
 - Изменчивость поколений у стрекоз (Insecta, Odonata) [[1984.pdf| pdf]] 
 #### 1983
