@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: Публикации
 ---
 #### 2025
 #### 2024
