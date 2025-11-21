@@ -6,8 +6,10 @@ keywords: Pantala flavescens, migrations, annual cycles, migrations zones, weste
 
 download: [[Borisov_Borisov_2024.pdf|Borisov, Borisov, 2024]]
 
-# Migrant dragonfly *Pantala flavescens* (Fabricius, 1798) (Odonata, Libellulidae) in western Russia and different migration cycles in the western Palearctic
-# Стрекоза-мигрант *Pantala flavescens* (Fabricius, 1798) (Odonata, Libellulidae) на западе России и разные циклы миграций в западной Палеарктике
+## Title.
+Migrant dragonfly *Pantala flavescens* (Fabricius, 1798) (Odonata, Libellulidae) in western Russia and different migration cycles in the western Palearctic
+## Название.
+Стрекоза-мигрант *Pantala flavescens* (Fabricius, 1798) (Odonata, Libellulidae) на западе России и разные циклы миграций в западной Палеарктике
 
 ## Abstract. 
 Data are provided on the distribution and phenology of the migrant dragonfly *Pantala flavescens* (Fabricius, 1798) in the western part of Russia. The northernmost point of the range is located in the vicinity of Moscow, the easternmost is in Astrakhan’. Analysis of the phenology of immigrants and residents shows that in the western Palearctic *P. flavescens* has two migration zones that differ in annual cycles. The «Eurasian migration zone» includes most of the continental Europe (excluding the southern part of the Iberian Peninsula), southern Russia and Turkey. Immigrants arrive there in April–May, presumably from the southern regions of South–West Asia. The summer generation appears at the end of June – September. The «Mediterranean migration zone» covers the south of the Iberian Peninsula and the Mediterranean islands (Pelagic, Sicily, Malta and Cyprus). Immigrants of *P. flavescens* arrive here mainly in July–August, presumably from Europe. These are individuals of the European summer generation. Egg laying occurs before the end of the year, and the local generation emerged in October – January. Colonization of the territories of Europe, southern Russia and Turkey by the species has been observed since the end of the last century and is apparently associated with general climatic warming.
