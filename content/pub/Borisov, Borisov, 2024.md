@@ -1,7 +1,7 @@
 doi: 10.15298/euroasentj.23.06.13
 authors: S.N. Borisov, A.S. Borisov
 keywords: Pantala flavescens, migrations, annual cycles, migrations zones, western Russia, Europe, Mediterranean
-download: "[[Borisov, Borisov, 2024.pdf]]"
+download: [[Borisov_Borisov_2024.pdf|Borisov, Borisov, 2024]]
 
 # Migrant dragonfly *Pantala flavescens* (Fabricius, 1798) (Odonata, Libellulidae) in western Russia and different migration cycles in the western Palearctic
 # Стрекоза-мигрант *Pantala flavescens* (Fabricius, 1798) (Odonata, Libellulidae) на западе России и разные циклы миграций в западной Палеарктике
