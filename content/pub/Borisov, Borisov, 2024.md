@@ -1,6 +1,6 @@
 - doi: 10.15298/euroasentj.23.06.13
 - authors: S.N. Borisov, A.S. Borisov
-- keywords: Pantala flavescens, migrations, annual cycles, migrations zones, western Russia, Europe, Mediterranean
+- keywords: *Pantala flavescens*, migrations, annual cycles, migrations zones, western Russia, Europe, Mediterranean
 - download: [[Borisov_Borisov_2024.pdf|Borisov, Borisov, 2024]]
 
 ## Title.
