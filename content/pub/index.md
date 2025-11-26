@@ -3,6 +3,8 @@ title: Публикации
 ---
 
 #### 2025
+- Dumont H.J., Borisov S., Schneider T., Ikemeyer D., Papazian M., Hämäläinen M., Vierstraete A. 2025 *Calopteryx splendens* and relatives: taxonomy, biogeography, and phylogeny (Odonata: Calopterygidae) // Odonatologica. 54(1-2), 1-52.
+- Borisov A.S., Borisov S.N. 2025 Distribution, habitat characteristics and northward expansion of *Orthetrum albistylum* (Selys, 1848) (Odonata, Libellulidae) in southern part of West Siberia, Russia // Euroasian Entomological Journal. Vol. 24 No. 4 P. 234-238. doi 10.15298/euroasentj.24.04.15
 #### 2024
 - A first record of two dragonfly species (Odonata) from Kamchatka Peninsula, Russia
 - Origin of the Red-veined Darter dragonflies migrating into the European part of Russia revealed by stable isotopes of hydrogen
