@@ -15,8 +15,8 @@ title: Публикации
 - Borisov S.N., Borisov A.S. 2024. Migrant dragonfly *Pantala flavescens* (Fabricius, 1798) (Odonata, Libellulidae) in western Russia and different migration cycles in the western Palearctic // Euroasian Entomological Journal. Vol. 23 No. 6 P. 360–368. doi 10.15298/euroasentj.23.06.13
 [[Borisov, Borisov, 2024b|Abstract]] / [[Borisov_Borisov_2024.pdf|pdf]]  
 #### 2023
-- Materials on the fauna of dragonflies (Odonata) of the Mangistauskaya Oblast (southwestern Kazakhstan
-[[Borisov, Kazenas, 2023|Abstract]] / [[Borisov_Kazenas_2023.pdf]]  
+- Borisov S.N., Kazenas V.L. 2023. To the fauna of dragonflies (Odonata) of the Mangistauskaya Oblast, southwestern Kazakhstan // Euroasian Entomological Journal. Vol. 22 No. 5 P. 27–234. doi 10.15298/euroasentj.22.05.01
+[[Borisov, Kazenas, 2023|Abstract]] / [[Borisov_Kazenas_2023.pdf|pdf]]  
 #### 2022
 - Dragonflies (Odonata) of the Syrdarya Karatau and the Arys River valley (southern Kazakhstan) with notes on seasonal latitudinal and altitudinal migrations 
 - Materials on the fauna of dragonflies (Odonata) of the Taimyrskii Dolgano-Nenetskii District (Krasnoyarskii Krai, Russia)
