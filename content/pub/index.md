@@ -9,6 +9,7 @@ title: Публикации
 [[Borisov, Borisov, 2025|Abstract]] / [[Borisov_Borisov_2025.pdf|pdf]]  
 #### 2024
 - Borisov A.S., Borisov S.N. 2024. A first record of two dragonfly species (Odonata) from Kamchatka Peninsula, Russia // Euroasian Entomological Journal. Vol. 23 No. 3 P. 138-140. doi 10.15298/euroasentj.23.03.05 
+[[Borisov, Borisov, 2024a|Abstract]] / [[Borisov_Borisov_2024a.pdf|pdf]]  
 - Borisov A.S., Borisov S.N., Iakovlev I.K., Onishko V.V., Ganin M.Y., Tsurikov S.M., Tiunov A.V. 2024. Origin of the Red-veined Darter dragonflies migrating into the European part of Russia revealed by stable isotopes of hydrogen // Ecological Entomology. 49(6), 974-978. doi 10.1111/een.13358
 - Borisov S.N., Borisov A.S. 2024. Migrant dragonfly *Pantala flavescens* (Fabricius, 1798) (Odonata, Libellulidae) in western Russia and different migration cycles in the western Palearctic // Euroasian Entomological Journal. Vol. 23 No. 6 P. 360–368. doi 10.15298/euroasentj.23.06.13
 [[Borisov, Borisov, 2024b|Abstract]] / [[Borisov_Borisov_2024.pdf|pdf]]  
