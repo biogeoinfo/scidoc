@@ -23,10 +23,10 @@ title: Публикации
 - Borisov S.N. 2022. Materials on the fauna of dragonflies (Odonata) of the Taimyrskii Dolgano-Nenetskii District (Krasnoyarskii Krai, Russia) // Euroasian Entomological Journal. Vol. 21 No. 6 P. 303–315. 10.15298/euroasentj.21.6.01
 [[Borisov, 2022|Abstract]] / [[Borisov_2022.pdf|pdf]]
 #### 2021
-- Odonata collected in southeast Kazakhstan in 2005- 2015
-- Biogeography and relationship of the Gomphidae of Europe, North Africa, and the Middle East (Odonata)
-- Atlas of the dragonflies and damselflies of West and Central Asia
-- To the fauna of dragonflies (Odonata) of the Altai Krai, indicating new and little-known species for Siberia
+- Borisov S.N. 2021. To the fauna of dragonflies (Odonata) of the Altai Krai, indicating new and little-known species for Siberia // Euroasian Entomological Journal. Vol. 20. No..3. P. 136-141. doi: 10.15298/euroasentj.20.3.03
+- Borisov S.N., Dumont H.J. 2021. Odonata collected in southeast Kazakhstan in 2005- 2015 // Bulletin de la Société royale belge d’Entomologie. Vol. 157. P. 176–202.
+- Boudot J.-P., Borisov S., De Knijf G., van Grunsven R.H.A., Schröter A., Kalkman V.J. 2021. Atlas of the dragonflies and damselflies of West and Central Asia // Brachytron. Vol. 22, Supplement. P. 3-248.
+- TDumont H.J., Schneider T., Vierstraete A., Borisov S.N. 2021. Biogeography and relationship of the Gomphidae of Europe, North Africa, and the Middle East (Odonata) // Odonatologica. Vol. 50. No. 1/2. P. 17-42. DOI: 10.5281/zenodo.4746234
 #### 2020
 - Northern limits of distribution and migration strategy of the dragonfly *Sympetrum fonscolombii* (Selys, 1840) (Odonata, Libellulidae) in Russia
 - Seasonal Migrations of *Pantala flavescens* (Odonata: Libellulidae) in Middle Asia and Understanding of the Migration Model in the Afro-Asian Region Using Stable Isotopes of Hydrogen
