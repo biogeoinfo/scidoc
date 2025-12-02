@@ -18,9 +18,10 @@ title: Публикации
 - Borisov S.N., Kazenas V.L. 2023. To the fauna of dragonflies (Odonata) of the Mangistauskaya Oblast, southwestern Kazakhstan // Euroasian Entomological Journal. Vol. 22 No. 5 P. 27–234. doi 10.15298/euroasentj.22.05.01
 [[Borisov, Kazenas, 2023|Abstract]] / [[Borisov_Kazenas_2023.pdf|pdf]]  
 #### 2022
-- Borisov S.N., Kazenas V.L., Borisov A.S. 2023. Dragonflies (Odonata) of the Syrdarya Karatau and the Arys River valley (southern Kazakhstan) with notes on seasonal latitudinal and altitudinal migrations // Euroasian Entomological Journal. Vol. 21 No. 2 P. 78–90. doi 10.15298/euroasentj.21.2.04
+- Borisov S.N., Kazenas V.L., Borisov A.S. 2022. Dragonflies (Odonata) of the Syrdarya Karatau and the Arys River valley (southern Kazakhstan) with notes on seasonal latitudinal and altitudinal migrations // Euroasian Entomological Journal. Vol. 21 No. 2 P. 78–90. doi 10.15298/euroasentj.21.2.04
 [[Borisov et al., 2022|Abstract]] / [[Borisov_et_al,_2022.pdf|pdf]]   
-- Materials on the fauna of dragonflies (Odonata) of the Taimyrskii Dolgano-Nenetskii District (Krasnoyarskii Krai, Russia)
+- Borisov S.N. 2022. Materials on the fauna of dragonflies (Odonata) of the Taimyrskii Dolgano-Nenetskii District (Krasnoyarskii Krai, Russia) // Euroasian Entomological Journal. Vol. 21 No. 6 P. 303–315. 10.15298/euroasentj.21.6.01
+[[Borisov, 2022]] / [[Borisov_2022.pdf]]   
 #### 2021
 - Odonata collected in southeast Kazakhstan in 2005- 2015
 - Biogeography and relationship of the Gomphidae of Europe, North Africa, and the Middle East (Odonata)
